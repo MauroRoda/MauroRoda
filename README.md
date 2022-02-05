@@ -1,7 +1,7 @@
 ## Olá!! Eu sou o Mauro, seja bem vindo ao meu perfil no GitHub...
 
-- Hoje trabalho com Desenvolvimento Front-end
-- Meus estudos atualmente estão focados em html, css e javaScript
+- Hoje estou em busca de oportunidade para trabalho com Desenvolvimento Front-end
+- Atualmente estou focadondo meus estudos em desenvolvimento Web. inicialmente html, css e javaScript
 - Contate-me pelo e-mail: mauro_r_gomes@hotmail.com
 
  ##
