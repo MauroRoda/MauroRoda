@@ -1,8 +1,8 @@
-## Olá!! Eu sou o Mauro, seja bem vindo ao meu perfil no GitHub...
+## Hi!! I'm Mauro, welcome to my profile on GitHub...
 
-- Hoje estou em busca de oportunidade para trabalho com Desenvolvimento Front-end
-- Meu foco nos estudos é o desenvolvimento Web. inicialmente html, css e javaScript
-- Contate-me pelo e-mail: mauro_r_gomes@hotmail.com
+- Today I'm looking for an opportunity to work with Front-end Development
+- I am currently studying Web development. Initially html, css and javaScript
+- Contact by email: mauro_r_gomes@hotmail.com
 
  ##
  
